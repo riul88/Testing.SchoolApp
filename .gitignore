@@ -1,0 +1,5 @@
+Testing.Common/*
+packages/*
+bin/*
+obj/*
+*.suo

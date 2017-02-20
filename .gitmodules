@@ -1,0 +1,3 @@
+[submodule "Testing.Common"]
+	path = Testing.Common
+	url = https://github.com/riul88/Testing.Common.git
